@@ -4,19 +4,19 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/block_2.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/block_4.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/block_8.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/block_16.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/block_32.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/block_64.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/block_128.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/block_256.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/block_512.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/block_1024.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/block_2048.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/bg1.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/bg2.png</File>
-    <File>C:/Users/cube2166/Documents/Visual Studio 2015/Projects/project/trunk/2048Demo/2048Demo/Content/block_0.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/block_2.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/block_4.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/block_8.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/block_16.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/block_32.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/block_64.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/block_128.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/block_256.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/block_512.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/block_1024.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/block_2048.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/bg1.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/bg2.png</File>
+    <File>C:/Users/cube2166/Documents/Visual Studio 2015/GitHub/2048Demo/trunk/2048Demo/2048Demo/Content/block_0.png</File>
   </SourceFiles>
 </SourceFileCollection>
